@@ -13,7 +13,7 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 - Responsive design (works on desktop & mobile)
 - Supports: `+`, `-`, `×`, `÷`
 
-  ## 🚀 Technologies Used
+## 🚀 Technologies Used
 
 - HTML5
 - CSS3
